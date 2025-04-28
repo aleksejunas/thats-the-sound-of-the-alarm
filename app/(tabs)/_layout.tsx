@@ -1,7 +1,9 @@
 // TODO: [x] - Update the alarm screen after adding a new alarm
-// TODO: [] - Add a notification when the alarm goes off (expo-notifications, expo-task-manager, expo-background-fetch)
+// TODO: [x] - Add a notification when the alarm goes off (expo-notifications, expo-task-manager, expo-background-fetch)
+// TODO: [x] - Add sound to the alarm
+// TODO: [x] - Add functionality for running wireless developement build
 // TODO: [] - Edit alarms
-// TODO: [] - Add sound to the alarm
+// TODO: [] - Make the app run in the background so it can go off without being active (threads etc?)
 // TODO: [] - Deploy to expo.dev or vercel.app (what is the best option?)
 // TODO: [] - Convert the clock screen to tailwindcss
 // TODO: [] - Make use of the ios/android notification panel
